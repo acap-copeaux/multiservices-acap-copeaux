@@ -1,0 +1,19 @@
+{
+  "last_update": "2025-08-11",
+  "reviews": [
+    {
+      "author": "Client Google",
+      "rating": 4.9,
+      "text": "Intervention rapide et travail propre. Je recommande !",
+      "source": "Google",
+      "date": "2025-07-10"
+    },
+    {
+      "author": "Client AlloVoisins",
+      "rating": 5.0,
+      "text": "Très pro, communication au top et ponctuel.",
+      "source": "AlloVoisins",
+      "date": "2025-06-21"
+    }
+  ]
+}
