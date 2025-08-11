@@ -1,0 +1,9 @@
+#preloader{
+  position:fixed; inset:0; display:grid; place-items:center;
+  background:var(--bg); z-index:9999; transition:opacity .3s ease, visibility .3s ease;
+}
+#preloader.hide{ opacity:0; visibility:hidden; }
+html.ready .scanner .scan-bar{ animation:none !important; }
+html.ready .glow{ animation:none !important; }
+html.preloading body > *:not(#preloader){ opacity:0; }
+html.ready body > *:not(#preloader){ opacity:1; transition:opacity .3s ease; }
