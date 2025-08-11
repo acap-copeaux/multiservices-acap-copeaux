@@ -1,0 +1,15 @@
+{
+  "name": "aCaP' Copeaux",
+  "short_name": "aCaP",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0b0f14",
+  "theme_color": "#4cc9f0",
+  "icons": [
+    {
+      "src": "assets/images/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

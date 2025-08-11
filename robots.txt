@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://acap-copeaux.github.io/multiservices-acap-copeaux/sitemap.xml
